@@ -100,9 +100,6 @@ Run any file individually:
 python 3_good_pairs.py
 ```
 ```
-python 3_good_pairs.py
-```
-```
 python 1_defanging_ip_address.py
 python 2_even_digits.py
 python 3_good_pairs.py
@@ -110,7 +107,5 @@ python 4_smaller_numbers.py
 python 5_subtract_product_sum.py
 python 6_xor_operation.py
 ```
-
-
 ```bash
 python filename.py
