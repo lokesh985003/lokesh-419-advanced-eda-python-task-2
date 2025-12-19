@@ -11,7 +11,7 @@ All programs are written in a simple and clear way.
 ## Project Structure
 
 All assignment files are placed in one folder:
-
+```
 lokesh-419-advanced-eda-python-task-2/
 ├── 1_defanging_ip_address.py
 ├── 2_even_digits.py
@@ -20,9 +20,7 @@ lokesh-419-advanced-eda-python-task-2/
 ├── 5_subtract_product_sum.py
 ├── 6_xor_operation.py
 └── README.md
-
-yaml
-Copy code
+```
 
 Each file solves one problem.
 
@@ -34,13 +32,11 @@ Each file solves one problem.
 **File:** `1_defanging_ip_address.py`
 
 This program replaces every `.` in an IP address with `[.]`.
-
-Example:  
+```
 Input: 1.1.1.1
 Output: 1[.]1[.]1[.]1
-
-yaml
-Copy code
+Example:  
+```
 
 ---
 
@@ -53,8 +49,6 @@ Example:
 Input: [12, 345, 2, 6, 7896]
 Output: 2
 
-yaml
-Copy code
 
 ---
 
@@ -67,8 +61,6 @@ Example:
 Input: [1, 2, 3, 1, 1, 3]
 Output: 4
 
-yaml
-Copy code
 
 ---
 
@@ -81,8 +73,6 @@ Example:
 Input: [8, 1, 2, 2, 3]
 Output: [4, 0, 1, 1, 3]
 
-yaml
-Copy code
 
 ---
 
@@ -95,8 +85,6 @@ Example:
 Input: 234
 Output: 15
 
-yaml
-Copy code
 
 ---
 
@@ -109,8 +97,6 @@ Example:
 Input: n = 5, start = 0
 Output: 8
 
-yaml
-Copy code
 
 ---
 
@@ -131,16 +117,15 @@ Copy code
 Run any file using this command:
 python filename.py
 
-makefile
-Copy code
 
 Example:
+
+
 python 3_good_pairs.py
 
-css
-Copy code
 
 To run all programs:
+
 python 1_defanging_ip_address.py
 python 2_even_digits.py
 python 3_good_pairs.py
@@ -148,8 +133,6 @@ python 4_smaller_numbers.py
 python 5_subtract_product_sum.py
 python 6_xor_operation.py
 
-yaml
-Copy code
 
 ---
 
