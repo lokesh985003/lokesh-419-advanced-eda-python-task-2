@@ -10,7 +10,8 @@ All problems are solved using clear logic and structured code.
 
 ## 📂 Project Structure
 
-All assignment programs are organized inside one folder:
+All assignment programs are organized inside a structured folder:
+
 
 
 ```
