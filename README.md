@@ -188,8 +188,10 @@ python 6_xor_operation.py
 
 ## 🏁 Final Summary
 
-This repository shows a clear understanding of applied Python programming concepts used in data analysis and problem solving.  
-All tasks are completed successfully according to the internship requirements.
+This repository highlights solid problem-solving skills using Python.  
+It demonstrates correct use of algorithms, loops, conditions, and data processing techniques.  
+The assignment is completed successfully as part of the Advance (EDA) Python Programming task.
+
 
 If this project helped you, please give it a ⭐.
 
